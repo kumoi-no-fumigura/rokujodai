@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/rokujodai",
  "yomi": "ろくじょうだいわか",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "未詳",
+  "author": "妙泉寺亜元",
+  "desc": "古今和歌六帖の題にならって詠んだ歌を集めたもの。四季の題に、述懐の歌などが続く。"
+ },
  "editions": [
   {
    "pid": "993388",
